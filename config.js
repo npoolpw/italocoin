@@ -1,8 +1,8 @@
-var api = "http://apihost.com:port";
+var api = "http://ca.npool.pw:2220";
 
-var poolHost = "apihost.com";
+var poolHost = "ca.npool.pw";
 
-var blockExplorer = "http://blockexplorer.pw/coin";
+var blockExplorer = "https://explorer.italocoin.com";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
@@ -15,5 +15,6 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"]
+        ["npool.pw/italocoin", "http://ca.npool.pw:2220"],
+        ["pool.italocoin.com", "http://pool.italocoin.com:8117"]
 ];
