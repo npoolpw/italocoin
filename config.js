@@ -8,9 +8,9 @@ var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
-var blockchainExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchain_block";
+var blockchainExplorer = "https://explorer.italocoin.com/tx/{id}";
 
-var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchain_transaction";
+var transactionExplorer = "https://explorer.italocoin.com/block/{id}";
 
 var themeCss = "themes/default-theme.css";
 
