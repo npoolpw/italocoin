@@ -17,5 +17,5 @@ var themeCss = "themes/default-theme.css";
 var networkStat = [
         ["npool.pw/italocoin", "http://ca.npool.pw:2220"],
         ["pool.italocoin.com", "http://pool.italocoin.com:8117"],
-        ["itc.newpool.pw", "http://itc.newpool.pw:8123"]
+        ["ita.newpool.pw", "http://ita.newpool.pw:8123"]
 ];
