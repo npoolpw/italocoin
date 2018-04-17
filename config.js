@@ -6,9 +6,9 @@ var blockExplorer = "https://explorer.italocoin.com";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
-var blockchainExplorer = "https://explorer.italocoin.com/tx/{id}";
+var blockchainExplorer = "https://explorer.italocoin.com/block/{id}";
 
-var transactionExplorer = "https://explorer.italocoin.com/block/{id}";
+var transactionExplorer = "https://explorer.italocoin.com/tx/{id}";
 
 var themeCss = "themes/default-theme.css";
 
